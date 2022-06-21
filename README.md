@@ -16,16 +16,13 @@ coming soon
   <a href="https://d.suryabhai.in"><img src="https://discordapp.com/api/guilds/656158231458218034/widget.png?style=banner2" alt="Discord server"></a>
 </p>
 
-`Admin Panel Demo` : <comingsoon/> <br>
 `Support & Info Discord:` : <https://d.suryabhai.in/> <br>
 `BUY NOW` : https://store.suryabhai.in
 
 ## This is upgraded version of old standalone panel. old panel is mainly created for The Legends Roleplay India. 
-Check out TLPR server https://tlrp.in
+Check out TLRP server https://tlrp.in
 
-### 
-
-### Features
+### 👉 Features
 - Fully secure login system
 - In-game QBCore database used
 - Pages that shows all players that have joined and all characters that have been created on your server with additional full information pages.
@@ -39,9 +36,9 @@ Check out TLPR server https://tlrp.in
 - Remove single item from stash, trunk, glovebox, inventory
 - Many more function included that not listed here.
 
-## Additional DDoS protection plan available(Extra charges)
+## 👉 Additional DDoS protection plan available(Extra charges)
 
-## Screenshot
+## 👉 Screenshot
 <p align="center">
  <img width="420" src=>
  <img width="420" src=>
