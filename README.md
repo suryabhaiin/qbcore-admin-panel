@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="800" height="200" src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/5ee100e0aae07227c18fab1829a21696d3a339ae.png">
+  <a href="https://store.suryabhai.in"><img width="800" height="200" src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/5ee100e0aae07227c18fab1829a21696d3a339ae.png"></a>
 </p>
 
 ## 👋 About us
