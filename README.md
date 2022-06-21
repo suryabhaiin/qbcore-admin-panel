@@ -5,11 +5,10 @@
   <a href="https://store.suryabhai.in"><img width="800" height="200" src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/5ee100e0aae07227c18fab1829a21696d3a339ae.png"></a>
 </p>
 
-## 👋 About us
+## 👋 About
 QBCore based web admin panel with all functions. You can manage full server from single panel
-
-## 📚 Documentation
-coming soon
+### This is upgraded version of old standalone panel. old panel is mainly created for The Legends Roleplay India. 
+Check out TLRP server https://tlrp.in
 
 ## 👉 Join the community
 <p>
@@ -19,8 +18,13 @@ coming soon
 `Support & Info Discord:` : <https://d.suryabhai.in/> <br>
 `BUY NOW` : https://store.suryabhai.in
 
-## This is upgraded version of old standalone panel. old panel is mainly created for The Legends Roleplay India. 
-Check out TLRP server https://tlrp.in
+## 📚 Documentation
+### Step 1 Upload panel to your server
+### Step 2 Import database
+### Step 3 Update config file with database connection details
+### Step 4 Open webaddess
+### Step 5 enjoy.........
+
 
 ### 👉 Features
 - Fully secure login system
