@@ -13,7 +13,7 @@ coming soon
 
 ## 👉 Join the community
 <p>
-  <a href="https://d.suryabhai.in"><img src="https://discordapp.com/api/guilds/656158231458218034/widget.png?style=banner2" alt="Discord server"></a>
+  <a href="https://discord.gg/NzYr9t4Vta"><img src="https://discordapp.com/api/guilds/656158231458218034/widget.png?style=banner2" alt="Discord server"></a>
 </p>
 
 `Support & Info Discord:` : <https://d.suryabhai.in/> <br>
