@@ -16,9 +16,12 @@ Check out TLRP server https://tlrp.in
 </p>
 
 `Support & Info Discord:` : <https://d.suryabhai.in/> <br>
-`BUY NOW` : <https://store.suryabhai.in/>
+`BUY NOW` : <https://surya.tebex.io/>
 
 `Demo Server: ` `connect fivem.suryabhai.in`
+`Demo Panel: ` <https://fivem.suryabhai.in/>
+           `User : demo`
+            `Password : demo`
 
 ## 📚 Documentation
 ### Step 1 Upload panel to your server
