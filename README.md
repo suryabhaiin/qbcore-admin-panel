@@ -73,5 +73,6 @@ Check out TLRP server https://tlrp.in
   
   
   ## FOR LINUX USERS
-  `sudo timedatectl set-timezone your_time_zone`
+  Set your timezone same as you server location timezone to work proper ban system and other time ago and time remaning functions.
+  `sudo timedatectl set-timezone your_time_zone` - ubuntu
   
