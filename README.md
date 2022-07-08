@@ -22,8 +22,8 @@ Check out TLRP server https://tlrp.in
 ### Step 1 Upload panel to your server
 ### Step 2 Import database
 ### Step 3 Update config file with database connection details
-### Step 4 Set license key in config file
-### Step 5 enjoy.........
+### Step 4 Add fivem script in server
+### Step 5 restart server... enjoy.........
 
 
 ### 👉 Features
