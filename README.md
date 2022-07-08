@@ -18,8 +18,8 @@ Check out TLRP server https://tlrp.in
 `Support & Info Discord:` : <https://d.suryabhai.in/> <br>
 `BUY NOW` : <https://surya.tebex.io/>
 
-`Demo Server: ` `connect fivem.suryabhai.in`
-`Demo Panel: ` <https://fivem.suryabhai.in/>
+`Demo Server: ` `connect fivem.suryabhai.in` <br>
+`Demo Panel: ` <https://fivem.suryabhai.in/> <br>
            `User : demo`
             `Password : demo`
 
