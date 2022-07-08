@@ -18,7 +18,7 @@ Check out TLRP server https://tlrp.in
 `Support & Info Discord:` : <https://d.suryabhai.in/> <br>
 `BUY NOW` : <https://store.suryabhai.in/>
 
-`Demo Server: ` <fivem://connect/fivem.suryabhai.in/>
+`Demo Server: ` `connect fivem.suryabhai.in`
 
 ## 📚 Documentation
 ### Step 1 Upload panel to your server
