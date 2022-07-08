@@ -66,4 +66,12 @@ Check out TLRP server https://tlrp.in
  <img width="420" src=https://media.discordapp.net/attachments/977999681428783144/988772960527605820/unknown.png?width=456&height=487><br>
  <img width="420" src=https://media.discordapp.net/attachments/977999681428783144/988773089863147530/unknown.png><br>
  <img width="420" src=https://media.discordapp.net/attachments/977999681428783144/988773862579765288/unknown.png><br>
+ <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/995031165931110543/unknown.png><br>
   </p>
+  
+  
+  
+  
+  ## FOR LINUX USERS
+  `sudo timedatectl set-timezone your_time_zone`
+  
