@@ -31,7 +31,9 @@ QBCore based web admin panel with all functions. You can manage full server from
 ### Step 2 Import database
 ### Step 3 Update config file with database connection details
 ### Step 4 Add fivem script in server
-### Step 5 restart server... enjoy.........
+### Step 5 Restart fivem server... enjoy.........
+
+## also add inventory images to you webserver/assets/ folder
 
 
 ### 👉 Features
