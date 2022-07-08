@@ -15,7 +15,7 @@ Check out TLRP server https://tlrp.in
   <a href="https://discord.gg/NzYr9t4Vta"><img src="https://discordapp.com/api/guilds/656158231458218034/widget.png?style=banner2" alt="Discord server"></a>
 </p>
 
-`Support & Info Discord:` : <https://d.suryabhai.in/> <br>
+`Support :` : <https://d.suryabhai.in/> <br>
 `BUY NOW` : <https://surya.tebex.io/>
 
 `Demo Server: ` `connect fivem.suryabhai.in` <br>
