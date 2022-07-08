@@ -7,21 +7,24 @@
 
 ## 👋 About
 QBCore based web admin panel with all functions. You can manage full server from single panel
-### This is upgraded version of old standalone panel. old panel is mainly created for The Legends Roleplay India. 
-Check out TLRP server https://tlrp.in
+
 
 ## 👉 Join the community
 <p>
   <a href="https://discord.gg/NzYr9t4Vta"><img src="https://discordapp.com/api/guilds/656158231458218034/widget.png?style=banner2" alt="Discord server"></a>
 </p>
 
-`Support :` : <https://d.suryabhai.in/> <br>
-`BUY NOW` : <https://surya.tebex.io/>
+## 👉 Discord Support :
+<https://d.suryabhai.in/> <br>
+## BUY NOW
+  <https://surya.tebex.io/> <br>
 
-`Demo Server: ` `connect fivem.suryabhai.in` <br>
-`Demo Panel: ` <https://fivem.suryabhai.in/> <br>
-           `User : demo`
-            `Password : demo`
+## 👉 Demo Server
+  `connect fivem.suryabhai.in` <br>
+## 👉 Demo Panel
+  <https://fivem.suryabhai.in/> <br>
+  
+`User : demo` `Password : demo`
 
 ## 📚 Documentation
 ### Step 1 Upload panel to your server
