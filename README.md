@@ -33,7 +33,7 @@ QBCore based web admin panel with all functions. You can manage full server from
 ### Step 4 Add fivem script in server
 ### Step 5 Restart fivem server... enjoy.........
 
-## also add inventory images to you webserver/assets/ folder
+#### also add inventory images to you webserver/assets/ folder
 
 
 ### 👉 Features
