@@ -50,7 +50,6 @@ QBCore based web admin panel with all functions. You can manage full server from
 - Remove single item from stash, trunk, glovebox, inventory
 - Many more function included that not listed here.
 
-## 👉 Additional DDoS protection plan available(Extra charges)
 
 ## 👉 Screenshot
 <p align="center">
