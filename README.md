@@ -30,8 +30,9 @@ QBCore based web admin panel with all functions. You can manage full server from
 ### Step 1 Upload panel to your server
 ### Step 2 Import database
 ### Step 3 Update config file with database connection details
-### Step 4 Add fivem script in server
-### Step 5 Restart fivem server... enjoy.........
+### Step 4 Go to https://discord.com/developers/applications and create new Bot and add this [http://localhost/user/login.php] as OAuth2->General->Redirects URL
+### Step 5 Add fivem script in server
+### Step 6 Restart fivem server... enjoy.........
 
 #### also add inventory images to you webserver/assets/ folder
 
