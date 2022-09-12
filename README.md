@@ -1,4 +1,4 @@
-# qbcore-admin-panel
+# qbcore-admin-panel + user-panel
 
 
 <p align="center">
