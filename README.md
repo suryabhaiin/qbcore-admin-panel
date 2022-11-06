@@ -81,7 +81,7 @@ QBCore based web admin panel with all functions. You can manage full server from
 - List of all server weapons
 - List of all Vehicles
 
-**ADMIN ZONE **
+**ADMIN ZONE**
 
 - Manage Player Server queue Priority
 - Manages Staff - add,remove, reset, manage permissions
@@ -92,14 +92,14 @@ QBCore based web admin panel with all functions. You can manage full server from
 - View Money logs
 - View Panel logs
 
-** USER PANEL**
+**USER PANEL**
 
 - View your character
 - Purchase coins
 - Sell ingame car with market place
 - More coming soon
 
-** PAYMENT GATEWAYS**
+**PAYMENT GATEWAYS**
 
 - Stripe
 - PayPal
