@@ -42,15 +42,72 @@ QBCore based web admin panel with all functions. You can manage full server from
 - In-game QBCore database used
 - Pages that shows all players that have joined and all characters that have been created on your server with additional full information pages.
 - Full ban & kick functionality from the panel -coming soon in next update.
-- Shows all online players on your server with additional full information pages
 - Shows all player-owned vehicles on the server with additional full information pages
-- Leaderboard pages
 - Playtime, anticombat and much more...
 - Manage stash, trunk, glovebox, inventory
 - Wipe full stash, trunk, glovebox, inventory
 - Remove single item from stash, trunk, glovebox, inventory
 - Many more function included that not listed here.
+- Leadboard to display reachest player of server by bank,cash,saving,crypto
+- Online Player  - DM, Revive, GiveItem, Kick, Ban, Warn, Give Car, Freeze/unfreeze, Ping,
+- On player connecting check duplicate,discord,hex to prevent hacker and ban player to connect back after changing indetifiers.
 
+**PLAYERS DATA**
+
+- Check recent disconnect
+- Check Recent Death
+- List of kicked player and manage
+- List of Banned platers and manage
+- List of Warned players and manage
+- List of ingame ABCore banned player. can unban form panel and manage
+
+**SERVER DATA**
+
+- List of all character of server and manage
+- List of player vehicles and manage
+- List of player houses and manage - qs-housing supported
+- List of all aprtments and manage
+- List of garages with vehicles and manage
+- List of all Trunk with items and manage
+- List of all Glovebox with items and manage
+- List of all Stash with items and manage
+- List of all player weapons with first owner and current owner
+
+**CORE DATA**
+
+- List of all server jobs, fire and hire player from panel
+- List of all gangs and manage gang members
+- List of all server Items
+- List of all server weapons
+- List of all Vehicles
+
+**ADMIN ZONE **
+
+- Manage Player Server queue Priority
+- Manages Staff - add,remove, reset, manage permissions
+- Manage Coin Store
+- Manage Market Place
+- Manahe Purchase orders
+- View server logs
+- View Money logs
+- View Panel logs
+
+** USER PANEL**
+
+- View your character
+- Purchase coins
+- Sell ingame car with market place
+- More coming soon
+
+** PAYMENT GATEWAYS**
+
+- Stripe
+- PayPal
+- ID PAY
+- PAYTM
+- RAZORPAY
+- PAYU Money
+- BARCODE with UPI
 
 ## 👉 Screenshot
 <p align="center">
