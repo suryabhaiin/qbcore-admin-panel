@@ -163,10 +163,3 @@ QBCore based web admin panel with all functions. You can manage full server from
  <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038960029304373318/image.png?width=451&height=671><br>
   </p>
   
-  
-  
-  
-  ## FOR LINUX USERS
-  Set your timezone same as you server location timezone to work proper ban system and other time ago and time remaning functions.
-  `sudo timedatectl set-timezone your_time_zone` - ubuntu
-  
