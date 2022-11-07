@@ -1,4 +1,4 @@
-# qbcore-admin-panel + user-panel
+# qbcore-admin-panel + user-panel + Fivem Script + Payment Gateways
 
 
 <p align="center">
