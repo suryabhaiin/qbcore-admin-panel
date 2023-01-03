@@ -20,9 +20,9 @@ QBCore based web admin panel with all functions. You can manage full server from
   <https://surya.tebex.io/> <br>
 
 ## 👉 Demo Server
-  `connect 13.126.183.173` <br>
+  `connect 13.233.250.145` <br>
 ## 👉 Demo Panel
-  <http://13.126.183.173/> <br>
+  <http://13.233.250.145/> <br>
   
 `User : demo` `Password : demo`
 
