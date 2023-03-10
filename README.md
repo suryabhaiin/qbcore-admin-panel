@@ -20,9 +20,9 @@ QBCore based web admin panel with all functions. You can manage full server from
   <https://surya.tebex.io/> <br>
 
 ## 👉 Demo Server
-  `connect 13.233.250.145` <br>
+  `connect fivem.suryabhai.in` <br>
 ## 👉 Demo Panel
-  <http://13.233.250.145/> <br>
+  <https://panel.suryabhai.in/> <br>
   
 `User : demo` `Password : demo`
 
