@@ -127,7 +127,7 @@ QBCore based web admin panel with all functions. You can manage full server from
  <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038949835216261201/image.png?width=1382&height=671><br>
  <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038950057052995654/image.png?width=1390&height=671><br>
  <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038950622948507699/image.png?width=1440&height=664><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038950844130934834/image.png?width=1400&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038950844130934834/image.png?width=1400&height=671><br>
  <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038950991841734747/image.png?width=1388&height=671><br>
  <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038951181269086208/image.png?width=1431&height=671><br>
  <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038951379865194546/image.png?width=1371&height=671><br>
