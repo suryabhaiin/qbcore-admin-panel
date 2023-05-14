@@ -113,53 +113,53 @@ QBCore based web admin panel with all functions. You can manage full server from
 ## 👉 Screenshot
 <p align="center">
   **ADMIN PANEL**<br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038945924396888135/image.png?width=1388&height=670><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038946476203708438/image.png?width=1394&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038946784636055634/image.png?width=1406&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038947207711293461/image.png?width=1404&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038947610746163360/image.png?width=1384&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038947915923722290/image.png?width=1371&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038948182987644968/image.png?width=1398&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038948833360625724/image.png?width=1398&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038949091188686878/image.png?width=1440&height=631><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038949321376288878/image.png?width=1438&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038949555636539527/image.png?width=1386&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038949835216261201/image.png?width=1382&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038950057052995654/image.png?width=1390&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038950622948507699/image.png?width=1440&height=664><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038945924396888135/image.png?width=1388&height=670><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038946476203708438/image.png?width=1394&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038946784636055634/image.png?width=1406&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038947207711293461/image.png?width=1404&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038947610746163360/image.png?width=1384&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038947915923722290/image.png?width=1371&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038948182987644968/image.png?width=1398&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038948833360625724/image.png?width=1398&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038949091188686878/image.png?width=1440&height=631><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038949321376288878/image.png?width=1438&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038949555636539527/image.png?width=1386&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038949835216261201/image.png?width=1382&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038950057052995654/image.png?width=1390&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038950622948507699/image.png?width=1440&height=664><br>
  <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038950844130934834/image.png?width=1400&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038950991841734747/image.png?width=1388&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038951181269086208/image.png?width=1431&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038951379865194546/image.png?width=1371&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038951722980212817/image.png?width=1400&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038952045979373588/image.png?width=1390&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038952222765105262/image.png?width=1388&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038953174008070184/image.png?width=1398&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038953174008070184/image.png?width=1398&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038953447933870140/image.png?width=1402&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038953628217659545/image.png?width=1406&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038953753082089602/image.png?width=1411&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038953952798052462/image.png?width=1406&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038954118569541663/image.png?width=1409&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038954451555332187/image.png?width=1400&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038954616693457046/image.png?width=1406&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038955139601535006/image.png?width=1400&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038955434654048388/image.png?width=1409&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038955661624606781/image.png?width=1390&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038955845288997075/image.png?width=1392&height=670><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038956205751672862/image.png?width=1396&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038950991841734747/image.png?width=1388&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038951181269086208/image.png?width=1431&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038951379865194546/image.png?width=1371&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038951722980212817/image.png?width=1400&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038952045979373588/image.png?width=1390&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038952222765105262/image.png?width=1388&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038953174008070184/image.png?width=1398&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038953174008070184/image.png?width=1398&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038953447933870140/image.png?width=1402&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038953628217659545/image.png?width=1406&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038953753082089602/image.png?width=1411&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038953952798052462/image.png?width=1406&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038954118569541663/image.png?width=1409&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038954451555332187/image.png?width=1400&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038954616693457046/image.png?width=1406&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038955139601535006/image.png?width=1400&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038955434654048388/image.png?width=1409&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038955661624606781/image.png?width=1390&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038955845288997075/image.png?width=1392&height=670><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038956205751672862/image.png?width=1396&height=671><br>
   </p>
  <p align="center">
   **USER PANEL**<br> 
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038956640986214450/image.png?width=1374&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038956929332023306/image.png?width=1402&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038957074740150303/image.png?width=1409&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038957193174716486/image.png?width=1388&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038957517734158467/image.png?width=1386&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038957661661712424/image.png?width=1411&height=671><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038959304713187428/image.png?width=1398&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038956640986214450/image.png?width=1374&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038956929332023306/image.png?width=1402&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038957074740150303/image.png?width=1409&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038957193174716486/image.png?width=1388&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038957517734158467/image.png?width=1386&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038957661661712424/image.png?width=1411&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038959304713187428/image.png?width=1398&height=671><br>
   PAYMENT METHODS AVAILABLES/ STRIPE/PAYPAL/RAZORPAY/PAYTM<br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038959585601519728/image.png?width=1386&height=670><br>
- <img width="420" src=https://media.discordapp.net/attachments/977925336882876437/1038960029304373318/image.png?width=451&height=671><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038959585601519728/image.png?width=1386&height=670><br>
+ <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038960029304373318/image.png?width=451&height=671><br>
   </p>
   
