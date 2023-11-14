@@ -20,11 +20,9 @@ QBCore based web admin panel with all functions. You can manage full server from
   <https://surya.tebex.io/> <br>
 
 ## 👉 Demo Server
-  `connect fivem.suryabhai.in` <br>
+  Coming soon <br>
 ## 👉 Demo Panel
-  <https://panel.suryabhai.in/> <br>
-  
-`User : demo` `Password : demo`
+  Coming soon <br>
 
 ## 📚 Documentation
 ### Step 1 Upload panel to your server
