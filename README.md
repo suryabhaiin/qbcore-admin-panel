@@ -23,6 +23,8 @@ QBCore based web admin panel with all functions. You can manage full server from
   <a href="https://cfx.re/join/697y4d" target="blank">Connect</a>  <br> <br>
 ## 👉 Demo Panel
   <a href="https://m.tlrp.in" target="blank">Open</a>  <br>
+  User : demo <br>
+  Password : demo <br>
 
 ## 📚 Documentation
 ### Step 1 Upload panel to your server
