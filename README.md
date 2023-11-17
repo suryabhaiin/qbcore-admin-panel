@@ -20,7 +20,7 @@ QBCore based web admin panel with all functions. You can manage full server from
   <https://surya.tebex.io/> <br>
 
 ## 👉 Demo Server
-  <a href="https://cfx.re/join/697y4d" target="_blank">Connect</a>  <br> <br>
+  <a href="http://fivem.suryabhai.in" target="_blank">Connect</a>  <br> <br>
 ## 👉 Demo Panel
   <a href="https://m.tlrp.in" target="_blank">Open</a>  <br>
   User : demo <br>
