@@ -22,7 +22,7 @@ QBCore based web admin panel with all functions. You can manage full server from
 ## 👉 Demo Server
   <a href="http://fivem.suryabhai.in" target="_blank">Connect</a>  <br> <br>
 ## 👉 Demo Panel
-  <a href="https://m.tlrp.in" target="_blank">Open</a>  <br>
+  <a href="https://panel.suryabhai.in/" target="_blank">Open</a>  <br>
   User : demo <br>
   Password : demo <br>
 
