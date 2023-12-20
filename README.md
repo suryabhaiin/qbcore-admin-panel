@@ -41,7 +41,7 @@ QBCore based web admin panel with all functions. You can manage full server from
 - Fully secure login system
 - In-game QBCore database used
 - Pages that shows all players that have joined and all characters that have been created on your server with additional full information pages.
-- Full ban & kick functionality from the panel -coming soon in next update.
+- Full ban & kick functionality from the panel
 - Shows all player-owned vehicles on the server with additional full information pages
 - Playtime, anticombat and much more...
 - Manage stash, trunk, glovebox, inventory
