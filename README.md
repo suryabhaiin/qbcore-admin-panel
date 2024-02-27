@@ -156,7 +156,7 @@ QBCore based web admin panel with all functions. You can manage full server from
    <img width="100%" src="https://media.discordapp.net/attachments/977925336882876437/1038957517734158467/image.png?ex=65ee4197&is=65dbcc97&hm=68037989b45a24820d298c810257a180c8d0f283e047d4c4edb2902a68cf5f58&=&format=webp&quality=lossless&width=1386&height=671"><br>
  <img width="100%" src="https://media.discordapp.net/attachments/977925336882876437/1038957661661712424/image.png?ex=65ee41b9&is=65dbccb9&hm=ceff1dc027785e2e76c7c1b5ff3bdd3a108b6be9d78d55902e80fc2ae8440e1a&=&format=webp&quality=lossless&width=550&height=261"><br>
  <img width="100%" src="https://media.discordapp.net/attachments/977925336882876437/1038959585601519728/image.png?ex=65ee4384&is=65dbce84&hm=460c8665b6c5df7464e7060b1eb530599e6744ae648bd5be49a94d88fe3fe3c2&=&format=webp&quality=lossless&width=1386&height=670"><br>
-  PAYMENT METHODS AVAILABLES/ STRIPE/PAYPAL/RAZORPAY/PAYTM<br>
+  PAYMENT METHODS AVAILABLES/ STRIPE/PAYPAL/RAZORPAY/PAYTM/UPIQR<br>
    <img width="100%" src="https://media.discordapp.net/attachments/977925336882876437/1038959304713187428/image.png?ex=65ee4341&is=65dbce41&hm=05ad6c3fe2441efa1eea3040f64c0ed02a19c9b5e04b5a8b756a570fff07bae8&=&format=webp&quality=lossless&width=1398&height=671"><br>
    <img width="100%" src=https://media.discordapp.net/attachments/977925336882876437/1038960029304373318/image.png?width=451&height=671><br>
   </p>
