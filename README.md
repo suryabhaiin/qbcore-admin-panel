@@ -16,9 +16,9 @@ QBCore based web admin panel with all functions. You can manage full server from
 ## 👉 Discord Support :
 <https://d.suryabhai.in/> <br>
 ## BUY NOW
-  <https://surya.tebex.io/package/5159093> <br>
+<a href="https://surya.tebex.io/package/5159093" target="_blank">Tebex</a> <br>
 ## Preview : 
-  <https://www.youtube.com/watch?v=DTocPFQu-3A> <br>
+   <a href="https://www.youtube.com/watch?v=DTocPFQu-3A" target="_blank">YouTube</a><br>
 ## 👉 Demo Server
   <a href="http://fivem.suryabhai.in" target="_blank">Connect</a>  <br> <br>
 ## 👉 Demo Panel
