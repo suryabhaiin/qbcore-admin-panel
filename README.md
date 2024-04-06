@@ -92,6 +92,9 @@ QBCore based web admin panel with all functions. You can manage full server from
 - View server logs
 - View Money logs
 - View Panel logs
+- (Ingame Menu) Bulk remove item from server (Remove from stash, trunk,glovebox and Player Inventory)
+- (Ingame Menu) Bulk remove and replace item in server (Remove and replace in stash, trunk,glovebox and Player Inventory)
+- Remove Inactive Players, (3 , 6 , 9, 12 month (Editable))
 
 **USER PANEL**
 
