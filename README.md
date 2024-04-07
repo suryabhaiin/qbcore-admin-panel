@@ -125,7 +125,7 @@ QBCore based web admin panel with all functions. You can manage full server from
 **USER PANEL**
 
 - View your character
-- Purchase coins
+- Purchase coins (Tebex Store Supported)
 - Sell ingame car with market place
 - More coming soon
 
