@@ -61,6 +61,31 @@ QBCore based web admin panel with all functions. You can manage full server from
 - List of Banned platers and manage
 - List of Warned players and manage
 - List of ingame ABCore banned player. can unban form panel and manage
+- Change character name
+- Change character DOB
+- Change character Phone
+- Change character Gender
+- Change character money
+- Change character job
+- Change character gang
+- Delete character
+- Ban character
+- Ban Player
+
+**Online Player action From Webpanel**
+
+- Kick
+- Ban
+- Warn
+- DM
+- Give Item
+- Give Vehicle
+- Refuel Vehicle
+- Teleport to predefined location
+- Freeze/Unfreeze
+- Troll
+- Revive
+- Revice All
 
 **SERVER DATA**
 
@@ -74,6 +99,7 @@ QBCore based web admin panel with all functions. You can manage full server from
 - List of all Stash with items and manage
 - List of all player weapons with first owner and current owner
 
+  
 **CORE DATA**
 
 - List of all server jobs, fire and hire player from panel
@@ -84,11 +110,11 @@ QBCore based web admin panel with all functions. You can manage full server from
 
 **ADMIN ZONE**
 
-- Manage Player Server queue Priority
+- Manage Player Server queue Priority (Work with connectque with instant update)
 - Manages Staff - add,remove, reset, manage permissions
 - Manage Coin Store
 - Manage Market Place
-- Manahe Purchase orders
+- Manage Purchase orders
 - View server logs
 - View Money logs
 - View Panel logs
@@ -112,6 +138,19 @@ QBCore based web admin panel with all functions. You can manage full server from
 - RAZORPAY
 - PAYU Money
 - BARCODE with UPI
+
+v1.2.15 Update [07 April, 2024]
+- [New] Added duplicate character check
+- [New] Remove item from server
+- [New] Remove and replace item from server
+- [New] Remove vehicle from server
+- [New] Remove and replace vehicle from server
+- [New] Remove Item from panel upgraded, (For all inventory related action server must be online)
+- [New] Remove inactive players
+- [New] Change character DOB (Online and Offline Player)
+- [New] Change character gender (Online and Offline Player)
+- [Updated] Change character name (Online and Offline Player)
+- [Updated] Change character Phone (Online and Offline Player)
 
 ## Visitor Count
   <img src="https://profile-counter.glitch.me/sbadminpanel/count.svg" />  
