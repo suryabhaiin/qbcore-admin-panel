@@ -10,7 +10,7 @@ QBCore based web admin panel with all functions. You can manage full server from
 
 ## 👉 Join the community
 <p>
-  <a href="https://discord.gg/NzYr9t4Vta"><img src="https://discordapp.com/api/guilds/656158231458218034/widget.png?style=banner2" alt="Discord server"></a>
+  <a href="https://discord.com/invite/surya-bhai-656158231458218034"><img src="https://discordapp.com/api/guilds/656158231458218034/widget.png?style=banner2" alt="Discord server"></a>
 </p>
 
 ## 👉 Discord Support :
