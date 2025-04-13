@@ -139,18 +139,5 @@ QBCore based web admin panel with all functions. You can manage full server from
 - PAYU Money
 - BARCODE with UPI
 
-v1.2.15 Update [07 April, 2024]
-- [New] Added duplicate character check
-- [New] Remove item from server
-- [New] Remove and replace item from server
-- [New] Remove vehicle from server
-- [New] Remove and replace vehicle from server
-- [New] Remove Item from panel upgraded, (For all inventory related action server must be online)
-- [New] Remove inactive players
-- [New] Change character DOB (Online and Offline Player)
-- [New] Change character gender (Online and Offline Player)
-- [Updated] Change character name (Online and Offline Player)
-- [Updated] Change character Phone (Online and Offline Player)
-
 ## Visitor Count
   <img src="https://profile-counter.glitch.me/sbadminpanel/count.svg" />  
