@@ -131,13 +131,7 @@ QBCore based web admin panel with all functions. You can manage full server from
 
 **PAYMENT GATEWAYS**
 
-- Stripe
-- PayPal
-- ID PAY
-- PAYTM
-- RAZORPAY
-- PAYU Money
-- BARCODE with UPI
+- Tebex
 
 ## Visitor Count
   <img src="https://profile-counter.glitch.me/sbadminpanel/count.svg" />  
