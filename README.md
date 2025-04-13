@@ -20,7 +20,7 @@ QBCore based web admin panel with all functions. You can manage full server from
 ## Preview : 
    <a href="https://www.youtube.com/watch?v=DTocPFQu-3A" target="_blank">YouTube</a><br>
 ## 👉 Demo Server
-  <a href="http://fivem.suryabhai.in" target="_blank">Connect</a>  <br> <br>
+  <a href="http://play.sbadm.in" target="_blank">Connect</a>  <br> <br>
 ## 👉 Demo Panel
   <a href="https://panel.suryabhai.in/" target="_blank">Open</a>  <br>
   User : demo <br>
